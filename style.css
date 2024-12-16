@@ -84,3 +84,6 @@ header{
 #bottompart{
     padding-left: 35%;
 }
+#caption{
+   text-decoration:underline;
+}
