@@ -44,16 +44,6 @@ section {
     height: auto;
 }
 
-footer {
-    background-color: #222;
-    color: white;
-    text-align: center;
-    padding: 10px 0;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-}
-
 h2 {
     color: #00ff00;
 }
@@ -86,4 +76,5 @@ header{
 }
 #caption{
    text-decoration:underline;
+   color:coral;
 }
