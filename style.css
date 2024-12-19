@@ -82,5 +82,9 @@ header{
     color: aqua;
 }
 #strongRev{
-    color: brown;
+    color:khaki
+}
+#download{
+    color:cadetblue;
+    text-decoration: none;
 }
